@@ -1,0 +1,6 @@
+[submodule "esp8266"]
+	path = esp8266
+	url = git@gitlab.com:jayanta525/esp8266-ir.git
+[submodule "react-ui"]
+	path = react-ui
+	url = git@gitlab.com:jayanta525/esp8266-ir-react.git
